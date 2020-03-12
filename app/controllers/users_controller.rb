@@ -1,5 +1,5 @@
 class UsersController < ApplicationController
-   before_action :require_user_logged_in, only: [:index, :show, :followings, :followers]
+   before_action :require_user_logged_in, only: [:index, :show, :followings, :followers, :likes]
   include UsersHelper
   
   def index
@@ -40,6 +40,19 @@ class UsersController < ApplicationController
     @user = User.find(params[:id])  #URLからidをparams[:id]で取得している
     @followers = @user.followers.page(params[:page])
     counts(@user)
+  end
+
+  def likes             #あるユーザがお気に入りにした投稿を取得している
+    @user = User.find(params[:id])          
+    @likes = @user.likes.page(params[:page])
+    counts(@user)
+  end
+  
+  
+  def rev_microposts       #あるユーザの投稿をお気に入りにしたユーザを取得している
+    @micropost = Micropost.find(params[:id])
+    @rev_microposts = @micropost.rev_microposts.page(params[:page])
+    counts2(@micropost)
   end
 
 private
