@@ -22,6 +22,10 @@
 * ワイヤーフレーム：https://drive.google.com/drive/folders/1GuZEbK1Ja6Q8zPq3a3wc08W6xxfJy9-0?usp=sharing
 * データベース図：https://drive.google.com/drive/folders/10e3vvQmOPyJJfhFnmsylMy1xw3EWFqZi?usp=sharing
 
-## デモ動画（一部）
-https://github.com/kazuki-sp/randomy/assets/61288958/b324af38-89f0-4aa0-be91-c24bcf7e51aa
+## デモ画像（一部）
+![microposts1](https://github.com/kazuki-sp/microposts/assets/61288958/9fd9f426-eec4-4a42-9aea-af686dcb2383)
+![microposts2](https://github.com/kazuki-sp/microposts/assets/61288958/8d9ea532-2b65-4c70-84cc-88ba503dc819)
+![microposts3](https://github.com/kazuki-sp/microposts/assets/61288958/d34653f4-c185-42eb-8892-3918e3d7ac40)
+![microposts4](https://github.com/kazuki-sp/microposts/assets/61288958/9c0f230a-ff50-4c2e-921e-6dc6b7f48e3f)
+
 
