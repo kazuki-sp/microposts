@@ -23,9 +23,9 @@
 * データベース図：https://drive.google.com/drive/folders/10e3vvQmOPyJJfhFnmsylMy1xw3EWFqZi?usp=sharing
 
 ## デモ画像（一部）
-![microposts1](https://github.com/kazuki-sp/microposts/assets/61288958/9fd9f426-eec4-4a42-9aea-af686dcb2383)
-![microposts2](https://github.com/kazuki-sp/microposts/assets/61288958/8d9ea532-2b65-4c70-84cc-88ba503dc819)
-![microposts3](https://github.com/kazuki-sp/microposts/assets/61288958/d34653f4-c185-42eb-8892-3918e3d7ac40)
-![microposts4](https://github.com/kazuki-sp/microposts/assets/61288958/9c0f230a-ff50-4c2e-921e-6dc6b7f48e3f)
+![microposts1](https://github.com/kazuki-sp/microposts/assets/61288958/fbcf37f8-1f35-4990-9d30-98c8ef9f9683)
+![microposts2](https://github.com/kazuki-sp/microposts/assets/61288958/9326c5ad-1b6c-4019-afe2-78dcff1cf9dd)
+![microposts3](https://github.com/kazuki-sp/microposts/assets/61288958/815c445a-a99a-41a8-b736-5195e2340850)
+![microposts4](https://github.com/kazuki-sp/microposts/assets/61288958/bbf349cb-8bed-4c55-8b6c-47173037bab3)
 
 
